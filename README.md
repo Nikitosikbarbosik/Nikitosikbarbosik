@@ -4,7 +4,7 @@
 </div>
 
 ---
-## About me:
+### About me:
 - Lullaby for sweets
 - I am fond of sports
 - Sometimes I feel like I'm being degraded.
@@ -16,3 +16,7 @@
   <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" title="Java" alt="Python" width="80" height="80"/>&nbsp;
 </div>
+
+---
+### My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nikitosikbarbosik&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

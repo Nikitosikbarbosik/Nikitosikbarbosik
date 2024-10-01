@@ -5,7 +5,7 @@
 
 ---
 ### About me:
-- Lullaby for sweets
+- A lover of sweets
 - I am fond of sports
 - Sometimes I feel like I'm being degraded.
 - The fourth point comes out of the third one, I look at it and tick tok

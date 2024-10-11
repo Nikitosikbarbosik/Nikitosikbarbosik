@@ -11,12 +11,12 @@
 - The fourth point comes out of the third one, I look at it and tick tok
 - I love something cute
 
-  ---
-  ### :hammer_and_wrench: Languages and Tools :
-  <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" title="Java" alt="Python" width="80" height="80"/>&nbsp;
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
 </div>
 
 ---
 ### My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<ahref="https://git.io/streak-stats">)<img src="https://github-readme-streak-stats.herokuapp.com?user=Nikitosikbarbosik&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak"/></a>&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nikitosikbarbosik&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
